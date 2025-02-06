@@ -15,7 +15,7 @@ Ensure you have Python **3.x** installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cybersecurity-toolkit.git
+git clone https://github.com/AarishThings/cybersecurity-toolkit.git
 cd cybersecurity-toolkit
 
 # Install dependencies
